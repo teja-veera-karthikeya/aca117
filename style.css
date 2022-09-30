@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(155, 245, 90);
+}
+#title{
+    background-color: antiquewhite;
+    font-weight:bolder;
+    font-size: 35px;
+    color: blue;
+}
+#show_sketch{
+    float: right;
+
+}
+#score{
+    font-weight:bolder;
+    font-size: 35px;
+    float: right;
+}
+#timer{
+    font-weight:bolder;
+    font-size: 35px;
+    float: left;
+}
+#label{
+    font-weight:bolder;
+    font-size: 35px;
+}
+#Confidence{
+    font-weight:bolder;
+    font-size: 35px;
+}
+#h3{
+    font-weight:bolder;
+    font-size: 35px;
+    color: red;
+   
+}
